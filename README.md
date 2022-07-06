@@ -1,4 +1,7 @@
 # ObjectDetection Using Image Ai in Python
+##Note:
+**You can Download the [Google Colab](https://colab.research.google.com/?utm_source=scs-index) file of mine by clicking on this 👉 [Link](https://colab.research.google.com/drive/1_QZq3XRdB1mXHSKnEh8I6Os0maX0O9LA#scrollTo=40nrdw50nFfF) 👈
+
 
 ## What is ***Object Detection***?
 > It is a *Computer Vision Technique* deals with
@@ -21,7 +24,7 @@
 Following are the required liberaries for further working
 Suggestion: Use Google Colab if you have a low-end device...
 
-**Work only with Installing Required Liberaries for smooth running of ImageAI Module**
+**Works only with Installing Required Liberaries for smooth running of ImageAI Module**
 
 These are
 
